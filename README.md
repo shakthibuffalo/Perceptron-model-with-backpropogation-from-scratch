@@ -1,0 +1,2 @@
+# Perceptron-model-with-backpropogation-from-scratch
+This code demonstrated how to build a perceptron model with forward and backward propagation. This code uses one input layer, one hidden layer and one output layer. two sets of weights are initialized and optimized using backward pass. The activation function used here is Sigmoid. This code also demonstrates data preprocessing and making it ready for our perceptron model.
